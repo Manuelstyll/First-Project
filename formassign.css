@@ -1,0 +1,36 @@
+body{
+            background-image: url("images/smooth-blue-concrete-wall_53876-96203.avif");
+            background-repeat: no-repeat;
+            background-size: cover;
+}
+form{
+    text-align: center;
+}
+input[type=text],input[type=email]{
+    border-radius: 10px;
+    height: 40px;
+
+}
+
+input[type=submit]{
+width: 45%;
+    height: 30px;
+    background-color: #afafaf;
+    border-radius: 10px;
+}
+input[type=submit]:hover{
+    background-color: #14dca7;
+}
+
+label{
+   color: white;
+}
+legend{
+    font-size: 20px;
+    color: white;
+margin-left: auto;
+}
+.dform{
+    padding: 200px;
+    text-align: left;
+}

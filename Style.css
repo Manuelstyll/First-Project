@@ -1,0 +1,37 @@
+h1{
+    color: white;
+    background-color: grey;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+p{
+    color: white;
+    background-color: #afafaf;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.main{
+  color: white;
+    background-color: deepskyblue;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#style{
+
+}
+
+
+
+
+.side{
+    color: white;
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 20px;
+    font-style: inherit;
+}

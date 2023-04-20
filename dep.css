@@ -1,0 +1,22 @@
+.h2{
+    color: yellow;
+}
+th{
+    background-color: #1453dc;
+}
+.h3{
+    color: white;
+}
+table{
+    height: 150px;
+    width: 40%;
+}
+th,td{
+    border-bottom: 1px solid white;
+}
+tr:nth-child(even){
+    background-color: #c6ecf8;
+}
+tr:hover{
+    background-color: lightgrey;
+}

@@ -1,0 +1,48 @@
+.formal{
+    background-color: rosybrown;
+    text-align: left;
+    height: 500px;
+    margin-left: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+}
+form{
+    text-align: left;
+    width: 65%;
+}
+label{
+    color: white;
+}
+legend{
+    color: white;
+    font-size: 30px;
+}
+input[type=text]{
+    height: 20px;
+    width: 100px;
+}
+input[type=submit]{
+    background-color: #ff00a6;
+}
+.first{
+    display: flex;
+    margin-left: 200px;
+}
+.l{
+    color: black;
+    margin: 10px;
+}
+p{
+    color: #131313;
+}
+.second{
+    background-color: #afafaf;
+    padding-left: 10px;
+}
+.b{
+    color: black;
+}
+.cc{
+    color: black;
+}

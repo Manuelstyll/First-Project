@@ -1,0 +1,20 @@
+table{
+    height: 200px;
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border-bottom: 1px solid darkslategray;
+}
+th{
+    background-color: deepskyblue;
+}
+tr:hover{
+    background-color: #14dca7;
+}
+tr:nth-child(even){
+    background-color: #14dca7;
+}
+.h1{
+    color: yellow;
+}

@@ -1,0 +1,21 @@
+table{
+    height: 300px;
+    width: 100%;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+td,th{
+border: 1px solid darkgray;
+}
+.t{
+    text-align: right;
+}
+th{
+    background-color: grey;
+}
+.d{
+   background-color: lightgrey;
+}
+th{
+    text-align: left;
+}

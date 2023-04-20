@@ -1,0 +1,21 @@
+form{
+    text-align: center;
+    border-radius: 10px;
+    padding: 100px;
+    margin: 300px;
+    background-color: white;
+}
+body{
+    background-color: yellow;
+}
+input{
+    width: 200px;
+    height: 30px;
+}
+legend{
+    font-size: 25px;
+}
+.sub{
+    background-color: yellow;
+    border-radius: 10px;
+}

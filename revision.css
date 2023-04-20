@@ -1,0 +1,42 @@
+*{
+    background-color: #c6ecf8;
+    color: deepskyblue ;
+}
+
+
+
+
+
+
+
+
+
+
+
+.paragraph{
+    background-color:peachpuff ;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+    line-height: 2cm;
+    text-indent: 50px;
+    word-spacing: 50px;
+    cursor: initial;
+    border: 1px solid black;
+    outline: cyan solid 10px;
+    padding: 20px;
+    margin: 40px;
+
+}
+.inn{
+    color: cyan;
+}
+.new{
+    color: gray;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: outside;
+}

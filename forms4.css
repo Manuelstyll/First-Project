@@ -1,0 +1,22 @@
+input[type=text],input[type=email],input[type=password],select{
+    display: inline-block;
+    border-radius: 2px;
+    width: 100%;
+    border: 1px solid grey;
+    padding: 20px;
+    box-shadow: 3px 4px 2px 4px grey;
+}
+.myform{
+    height: 500px;
+   background-color: cyan ;
+    padding: 150px;
+    margin: 40px;
+}
+input[type=submit]{
+    width: 100%;
+    height: 50px;
+    background-color: deepskyblue;
+}
+input[type=submit]:hover{
+    background-color: lightsalmon;
+}

@@ -1,0 +1,27 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+    background-color: mediumpurple;
+}
+th,td{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+tr.new{
+    background-color: yellow;
+}
+td.j{
+     background-color: yellow;
+}
+td.s{
+     background-color: yellow;
+}
+td.a{
+     background-color: yellow;
+}
+
